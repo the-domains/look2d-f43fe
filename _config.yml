@@ -1,0 +1,14 @@
+layout_spectrum: 0.8381494681816548
+typography_spectrum: 0.7836990905925632
+color:
+  brandStrength: 0.18663286813534796
+  lightness: 0.15900984848849475
+  saturation: 0.7597209857776761
+  rhythmicContrast: 0.7926111673004925
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Look2D
